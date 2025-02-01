@@ -28,7 +28,7 @@ This Python script calculates the income tax based on the **New Tax Regime** for
 ### Example 1: Concise Output
 If you only want the final tax amount:
 ```sh
-python tax_calculation.py 1500000
+python tax_calculator.py 1500000
 ```
 Output:
 ```
@@ -38,7 +38,7 @@ The final tax payable for an income of 1,500,000.00 rupees is: 105,000 rupees.
 ### Example 2: Detailed Output
 If you want to see the breakdown of how the tax is calculated:
 ```sh
-python tax_calculation.py 1500000 -v
+python tax_calculator.py 1500000 -v
 ```
 Output:
 ```
