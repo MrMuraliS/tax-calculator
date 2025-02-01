@@ -109,4 +109,4 @@ README.md             # Documentation for the project
 Feel free to fork the repository, make changes, and create pull requests if you have improvements or bug fixes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed.
